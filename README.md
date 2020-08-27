@@ -11,12 +11,19 @@ https://pubchemdocs.ncbi.nlm.nih.gov/pug-rest
 Right now it can do the following, due to the limitations of the PubChem API:
 
 -InChi
+
 -InChiKey
+
 -Moleulcar Formula
+
 -Smiles
+
 -Molecular Weight
+
 -IUPAC Name
+
 -Charge
+
 -Mass for Mass spectrometry
 
 
