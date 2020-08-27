@@ -8,7 +8,16 @@ https://www.inchi-trust.org/inchi-post/chemistry-programming-with-python-retriev
 https://pubchemdocs.ncbi.nlm.nih.gov/pug-rest
 
 
-Right now it can do the following, due to the limitations of the PubChem API: InChi, InChiKey, Moleulcar Formula, Smiles, Molecular Weight, IUPAC Name, Charge and, Mass for Mass spectrometry. 
+Right now it can do the following, due to the limitations of the PubChem API:
+
+-InChi
+-InChiKey
+-Moleulcar Formula
+-Smiles
+-Molecular Weight
+-IUPAC Name
+-Charge
+-Mass for Mass spectrometry
 
 
 Likewise, if you're a student with no idea about how to run this, send me an email: info@kruer.io 
